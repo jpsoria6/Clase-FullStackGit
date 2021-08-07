@@ -13,6 +13,9 @@ class AdminItems extends React.Component{
             <div>
                 <CargaItemMaterial></CargaItemMaterial>
                 <TablaItemMaterial></TablaItemMaterial>
+                <div>
+                    <p>Nuevo cambio para el repositorio de git</p>
+                </div>
             </div>
         )
     }
