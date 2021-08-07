@@ -14,9 +14,9 @@ class AdminItems extends React.Component{
                 <CargaItemMaterial></CargaItemMaterial>
                 <TablaItemMaterial></TablaItemMaterial>
                 <div>
-                    <p>Nu4234evo cam4353bio para el456 re234543453positorio de git1234</p>
-                    <p>Nuevo camb435io para el reposito345io de git</p>
-                    <p>Nuevo ca234mbio para el re345positorio de git</p>
+                    <p>Nu4234evo5345645yfgfgdfgl456 re234543453positorio de git1234</p>
+                    <p>Nuevo dfgdfgdfgdfg para el reposito345io de git</p>
+                    <p>Nuevo ca234mdfgdfgdfgdbio para el re345positorio de git</p>
                 </div>
             </div>
         )
